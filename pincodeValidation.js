@@ -10,7 +10,7 @@ function validatePincode(pincode){
 }
 
 try{
-    validatePincode("400088");
+    validatePincode("400099");
     validatePincode("400");
 }
 catch(e){
